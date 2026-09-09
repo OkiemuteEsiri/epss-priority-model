@@ -1,0 +1,7 @@
+[
+  {"finding_id":"F-1001","cve":"CVE-2026-1001","asset_id":"EDGE-WEB-01","cvss":9.8,"epss":0.94,"kev":true,"internet_exposed":true,"asset_criticality":5,"first_seen":"2026-05-01T09:00:00Z","owner":"Digital Platforms"},
+  {"finding_id":"F-1002","cve":"CVE-2026-1002","asset_id":"FIN-APP-07","cvss":8.1,"epss":0.63,"kev":false,"internet_exposed":false,"asset_criticality":5,"first_seen":"2026-07-20T11:30:00Z","owner":"Finance Apps"},
+  {"finding_id":"F-1003","cve":"CVE-2025-4888","asset_id":"LAB-SRV-12","cvss":7.5,"epss":0.21,"kev":true,"internet_exposed":false,"asset_criticality":4,"first_seen":"2025-12-10T08:00:00Z","owner":"Research Systems"},
+  {"finding_id":"F-1004","cve":"CVE-2026-1444","asset_id":"DEV-VM-03","cvss":6.5,"epss":0.04,"kev":false,"internet_exposed":false,"asset_criticality":2,"first_seen":"2026-08-15T13:00:00Z","owner":"Engineering"},
+  {"finding_id":"F-1005","cve":"CVE-2026-1555","asset_id":"VPN-GW-02","cvss":9.1,"epss":0.78,"kev":false,"internet_exposed":true,"asset_criticality":5,"first_seen":"2026-06-01T10:00:00Z","owner":"Infrastructure"}
+]
